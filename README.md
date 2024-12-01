@@ -12,7 +12,7 @@ Technical Assessment
 
 ### API
 
-- I have included a Postman collection to interact with the application's API. See file `eWealth.postman_collection.json`. The Laravel server must be running in order for the API to work:
+- I have included a Postman collection to interact with the application's API. See file `eWealth.postman_collection.json`. The Laravel server must be running in order for the API to work but only after all of the setup steps below have been completed:
 
 ```
 php artisan serve
