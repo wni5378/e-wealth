@@ -32,6 +32,12 @@ Change directory into the application:
 cd e-wealth
 ```
 
+Install Composer packages
+
+```
+composer install
+```
+
 Install NPM packages
 
 ```
