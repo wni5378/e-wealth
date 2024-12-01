@@ -10,6 +10,14 @@ Technical Assessment
 - While the assessment requirements stipulate a MySQL database, I am using MariaDB version 10.4.28-MariaDB which means that the version of MySQL must be version 8.0;
 - Also, the assessment stipulates that this application must be developed in Angular. I am not using Angular - just Laravel and Tailwind;
 
+### API
+
+- I have included a Postman collection to interact with the application's API. See file `eWealth.postman_collection.json`. The Laravel server must be running in order for the API to work:
+
+```
+php artisan serve
+```
+
 ### Setup
 
 Open a command line or terminal window and clone the application from GitHub:
